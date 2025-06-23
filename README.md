@@ -1,6 +1,6 @@
-![npm](https://img.shields.io/npm/v/deep-utils)
-![downloads](https://img.shields.io/npm/dm/deep-utils)
-![license](https://img.shields.io/npm/l/deep-utils)
+![npm](https://img.shields.io/npm/v/safe-async-ts)
+![downloads](https://img.shields.io/npm/dm/safe-async-ts)
+![license](https://img.shields.io/npm/l/safe-async-ts)
 
 # safe-async-ts
 
