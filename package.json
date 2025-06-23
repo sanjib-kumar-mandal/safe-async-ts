@@ -1,0 +1,19 @@
+{
+  "name": "safe-async-ts",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["async", "error-handling", "typescript", "tuple", "safe"],
+  "sideEffects": false,
+  "author": "Sanjib Kumar Mandal<sanjib0248@gmail.com>",
+  "license": "ISC",
+  "description": "A minimal TypeScript utility for safe asynchronous operations using tuple destructuring. Avoid try/catch blocks and handle async errors cleanly with [error, result] syntax. Lightweight, tree-shakable, and designed for developer productivity in modern TypeScript projects.",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
