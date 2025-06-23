@@ -4,15 +4,15 @@
   "version": "1.0.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "files": ["dist"],
   "scripts": {
     "build": "tsc",
-    "prepublishOnly": "npm run build",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prepublishOnly": "npm run build"
   },
   "keywords": ["typescript", "async", "error-handling", "safe", "try-catch", "promise", "await", "tuple", "utility", "functional", "safe-async", "ts", "clean-code", "minimal", "helper"],
   "sideEffects": false,
   "author": "Sanjib Kumar Mandal<sanjib0248@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "typescript": "^5.0.0"
   },
