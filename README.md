@@ -1,6 +1,6 @@
-![npm](https://img.shields.io/npm/v/ng-files-input)
-![downloads](https://img.shields.io/npm/dm/ng-files-input)
-![license](https://img.shields.io/npm/l/ng-files-input)
+![npm](https://img.shields.io/npm/v/deep-utils)
+![downloads](https://img.shields.io/npm/dm/deep-utils)
+![license](https://img.shields.io/npm/l/deep-utils)
 
 # safe-async-ts
 
